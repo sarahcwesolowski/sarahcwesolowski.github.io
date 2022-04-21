@@ -40,6 +40,36 @@ plugins:
 
 # theme settings
 minimal_mistakes_skin: "aqua"
+author:
+  name     : "Sarah Wesolowski, PhD"
+  avatar   : "/assets/images/bio-photo.jpg"
+  bio      : "Data scientist at the University of Pennsylvania School of Medicine."
+  location : "Philadelphia, PA"
+# front matter defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# scripts
+head_scripts:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML
 
 # Exclude from processing.
 # The following items will not be processed, by default.
