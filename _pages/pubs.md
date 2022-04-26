@@ -3,6 +3,7 @@ layout: single
 title:  "Publications"
 date:   2022-04-21 00:00:00 -0400
 permalink: /pubs/
+author: "Sarah Wesolowski, PhD"
 ---
 
 [Click here to go to my SPIRES page](http://inspirehep.net/author/profile/S.Wesolowski.1)<br>

@@ -4,6 +4,7 @@ title:  "Welcome to Jekyll!"
 date:   2022-04-21 08:37:48 -0400
 categories: jekyll update
 author_profile: true
+author: "Sarah Wesolowski, PhD"
 ---
 
 Math test: $$ a = b_c - \int_0^\infty x dx $$
