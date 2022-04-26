@@ -5,6 +5,10 @@ date:   2022-04-21 00:00:00 -0400
 permalink: /pubs/
 ---
 
+[Click here to go to my SPIRES page](http://inspirehep.net/author/profile/S.Wesolowski.1)<br>
+[ORCID: 0000-0001-8556-2421](https://orcid.org/0000-0001-8556-2421)<br>
+[ResearchGate](https://www.researchgate.net/profile/Sarah_Wesolowski)
+
 ## Nuclear Physics
 
 My PhD is in theoretical nuclear physics (advisor: [Dick Furnstahl](https://www.asc.ohio-state.edu/furnstahl.1/)) and I am a founding member of the [BUQEYE collaboration](https://buqeye.github.io). I am not currently active in this community but am still open to discussion or questions about my work. See below for publications.
@@ -32,6 +36,6 @@ My PhD is in theoretical nuclear physics (advisor: [Dick Furnstahl](https://www.
 This collects miscellaneous work I have done over the years, including work from when I was an undergraduate at [Saint Vincent College](https://www.stvincent.edu).
 
 - *Extreme ultraviolet quasar colours from GALEX observations of the SDSS DR14Q catalogue*, Monthly Notices of the Royal Astronomical Society **493** 2 (2020). [Published](https://academic.oup.com/mnras/article/493/2/2745/5739929)
-- *Faculty Writing Groups for Mathematicians*, MAA Focus (October/November 2018). [Published magazine article](http://digitaleditions.walsworthprintgroup.com/publication/?i=529803#{%22issue_id%22:529803,%22view%22:%22archiveBrowser%22})
+- *Faculty Writing Groups for Mathematicians*, MAA Focus (October/November 2018). [Published magazine article](http://digitaleditions.walsworthprintgroup.com/publication/?i=529803)
 - *A quasar catalog with simultaneous UV, optical, and x-ray observations by SWIFT*, Astrophys. J. Suppl. **201** 2 (2012). [Published](http://iopscience.iop.org/article/10.1088/0067-0049/201/2/10)
 - *Model selection and data quality for core-collapse supernova waveform simulations*, University of Florida International REU carried out at the University of Glasgow, Summer 2011. [Report](http://www.phys.ufl.edu/ireu/IREU2011/pdf_reports/Sarah_report.pdf)
