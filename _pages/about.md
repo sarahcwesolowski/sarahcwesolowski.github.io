@@ -6,4 +6,7 @@ permalink: /about/
 author: "Sarah Wesolowski, PhD"
 ---
 
-General resume: [[click to download]]({{ site.baseurl }}/assets/resume/general_resume_online.pdf)
+* General resume: [[click to download]]({{ site.baseurl }}/assets/resume/general_resume_online.pdf)
+* Academic CV: [[click to download]]({{ site.baseurl }}/assets/resume/Wesolowski_CVv2.pdf)*
+
+*Note: only updated through 2022. Please see resume for most recent work.
