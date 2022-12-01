@@ -6,4 +6,4 @@ permalink: /about/
 author: "Sarah Wesolowski, PhD"
 ---
 
-Coming soon.
+General resume: [[click to download]]({{ site.baseurl }}/assets/resume/general_resume_online.pdf)
