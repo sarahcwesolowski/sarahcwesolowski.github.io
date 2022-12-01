@@ -12,7 +12,7 @@ author: "Sarah Wesolowski, PhD"
 
 ## Nuclear Physics
 
-My PhD is in theoretical nuclear physics (advisor: [Dick Furnstahl](https://www.asc.ohio-state.edu/furnstahl.1/)) and I am a founding member of the [BUQEYE collaboration](https://buqeye.github.io). I am not currently active in this community but am still open to discussion or questions about my work. See below for publications.
+My PhD is in theoretical nuclear physics (advisor: [Dick Furnstahl](https://www.asc.ohio-state.edu/furnstahl.1/)) and I am a founding member of the [BUQEYE collaboration](https://buqeye.github.io). I am not currently active in this community. See below for publications.
 
 - *Rigorous constraints on three-nucleon forces in chiral effective field theory from fast and accurate calculations of few-body observables*, Phys. Rev. C **104**, 064001 (2021). [Preprint](https://arxiv.org/abs/2104.04441),
 [Published](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.104.064001).
