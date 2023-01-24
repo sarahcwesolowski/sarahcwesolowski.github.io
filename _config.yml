@@ -55,8 +55,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
+      comments: false
+      share: false
       related: true
 include: ["_pages"]
 defaults:
@@ -67,6 +67,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+atom_feed:
+  hide: true
 
 # scripts
 head_scripts:
