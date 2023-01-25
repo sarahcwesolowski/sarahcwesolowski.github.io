@@ -18,13 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Sarah's Personal Site"
+title: "scw data science"
 name: Sarah Wesolowski, PhD
 email: sarah.wesolowski@pennmedicine.upenn.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Sarah Wesolowski, PhD's website and data science blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sarahcwesolowski.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -73,7 +71,8 @@ atom_feed:
 
 # scripts
 head_scripts:
-  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML
+  - https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML
+  #- https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML
 
 # Exclude from processing.
 # The following items will not be processed, by default.
