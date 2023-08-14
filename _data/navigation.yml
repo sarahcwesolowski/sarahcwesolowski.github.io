@@ -1,9 +1,0 @@
-main:
-  - title: "CV/Resume"
-    url: /about
-  - title: "Blog"
-    url: /
-  - title: "Publications"
-    url: /pubs
-  - title: "Favorite things"
-    url: /faves
