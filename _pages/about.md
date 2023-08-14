@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: health data science ☀️ stats programming ☀️ data visualization
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: true # crops the image to make it circular
+  address: Relocating to Yorkshire, UK<br>No visa needed
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +16,25 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm currently a healthcare data scientist with the [University of Pennsylvania
+School of Medicine](https://pathology.med.upenn.edu) in Philadelphia, PA, USA. **I
+am relocating to the UK and seeking full-time positions in the data science sector,
+particularly in clinical research.** I don't need visa sponsorship.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Right now, I'm working with individual patient electronic health record (EHR)
+data to create personalised disease predictions. I use full-stack data science
+techniques to extract and process complex data (SQL and Azure Databricks),
+create custom machine learning models (Python and R), put models into deployment
+on Azure, and create beautiful and informative visualisations (usually with maplotlib and dash).
+Everything is under version control in github or gitlab.
+I am a skilled scientific programmer who has worked in a variety of architectures,
+and I am happy to integrate into new development stacks.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Last but not least, I am passionate about managing projects and getting things done.
+I manage one major statistical methods development project for a
+Patient Centered Outcomes Research Institute grant which includes regular reports and
+visualization deliverables,
+and perform consultation and coding for two other primary aldosteronism (PA) projects.
+One project is the construction of interpretable classification models, and the other
+is deploying a realtime weekly targeting model for enroling patients in a PA
+prospective clinical study.
