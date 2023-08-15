@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: health data science ☀️ stats programming ☀️ data visualization
+subtitle: health data science ☀️ stats programming ☀️ data visualisation
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  address: Relocating to Yorkshire, UK<br>No visa needed
+  address: Relocating to UK<br>No visa needed
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
