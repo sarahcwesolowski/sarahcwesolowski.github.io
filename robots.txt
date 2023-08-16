@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sarahcwesolowski.github.io/sitemap.xml
