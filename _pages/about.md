@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: health data science ☀️ stats programming ☀️ data visualisation
+subtitle: health data science ☀️ project management ☀️ data visualisation
 
 profile:
   align: right
@@ -18,8 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 I'm currently a healthcare data scientist with the [University of Pennsylvania
 School of Medicine](https://pathology.med.upenn.edu) in Philadelphia, PA, USA. **I
-am relocating to the UK and seeking full-time positions in the data science sector,
-particularly in clinical research.** I don't need visa sponsorship.
+am relocating to the UK and seeking full-time positions in the data science or clinical data sectors.** I don't need visa sponsorship.
 
 Right now, I'm working with individual patient electronic health record (EHR)
 data to create personalised disease predictions. I use full-stack data science
@@ -28,7 +27,8 @@ create custom machine learning models (Python and R), put models into deployment
 on Azure, and create beautiful and informative visualisations (usually with maplotlib and dash).
 Everything is under version control in github or gitlab.
 I am a skilled scientific programmer who has worked in a variety of architectures,
-and I am happy to integrate into new development stacks.
+and I am happy to integrate into new development stacks or determine new ones
+depending on the business use-case.
 
 Last but not least, I am passionate about managing projects and getting things done.
 I manage one major statistical methods development project for a
