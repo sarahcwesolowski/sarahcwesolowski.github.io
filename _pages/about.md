@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: health data science ☀️ project management ☀️ data visualisation
+subtitle: data science manager ☀️ data visualisation ☀️ analytics and deliverables
 
 profile:
   align: right
@@ -16,25 +16,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm currently a healthcare data scientist with the [University of Pennsylvania
-School of Medicine](https://pathology.med.upenn.edu) in Philadelphia, PA, USA. **I
-am relocating to the UK and seeking full-time positions in the data science or clinical data sectors.** I don't need visa sponsorship.
+I have recently relocated to the United Kingdom, where I will start a position in early 2024 at [Yorkshire Building Society](https://www.ybs.co.uk) as a Data Science Behavioural Analysis & Support
+Lead Manager. I was previously a healthcare data scientist at the University of Pennsylvania School of Medicine.
 
-Right now, I'm working with individual patient electronic health record (EHR)
-data to create personalised disease predictions. I use full-stack data science
+As a professional data scientist, I use full-stack
 techniques to extract and process complex data (SQL and Azure Databricks),
 create custom machine learning models (Python and R), put models into deployment
-on Azure, and create beautiful and informative visualisations (usually with maplotlib and dash).
+on Azure or other custom cloud platforms, and create beautiful and informative visualisations (usually with maplotlib/plptly and dash).
 Everything is under version control in github or gitlab.
 I am a skilled scientific programmer who has worked in a variety of architectures,
 and I am happy to integrate into new development stacks or determine new ones
-depending on the business use-case.
-
-Last but not least, I am passionate about managing projects and getting things done.
-I manage one major statistical methods development project for a
-Patient Centered Outcomes Research Institute grant which includes regular reports and
-visualization deliverables,
-and perform consultation and coding for two other primary aldosteronism (PA) projects.
-One project is the construction of interpretable classification models, and the other
-is deploying a realtime weekly targeting model for enroling patients in a PA
-prospective clinical study.
+depending on the business use-case. Last but not least, I am passionate about managing projects and getting things done. I have managed a variety of research and consultation projects in various fields.
