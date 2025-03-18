@@ -109,8 +109,7 @@ may be other venues where folks organize them.
 ## Pet taxis for ground transport
 
 There appear to be many pet taxis in the both the US and UK to transport your dog
-from point A to B. I used Happy Saluki and had a great experience! As I find out more
-I can list them here.
+from point A to B. I used [Happy Saluki](https://www.happy-saluki.com) and had a great experience!
 
 ## Pet relocation companies
 
@@ -118,13 +117,19 @@ The benefit of using a pet relocation company is that they
 help with the logistics of getting your pet to the airport, from the destination airport, and
 the vet paperwork. Their institutional knowledge seems helpful to me, but you'll pay a premium to work with them compared to directly booking yourself.
 
-I didn't end up using any, so I have no specific recommendations, but I may come
-back and at least list some that are available.
+I didn't end up using any, so I don't have a specific recommendation.
 
-## Veterinary paperwork (it's time-sensitive and stressful)
+## Veterinary restrictions and paperwork
 
-To be filled in.
+This was one of the most stressful parts of the process.
 
-## More about K9 Jets and getting to the right place at Teterboro
+To bring a dog into the UK from the US, check for the most up-to-date requirements
+at the [USDA APHIS website](https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-united-kingdom-great-britain-england-scotland). Speak to a USDA-accredited
+vet as soon as you can before you know you're moving to get an appointment scheduled
+and ensure you're compliant with the requirements.
 
-To be filled in.
+To document all of this, you need a USDA-Endorsed Health Certificate, which is
+issued by a USDA-accredited vet within 10 days of travel and endorsed by the USDA.
+Your vet should ship this by FedEx or another express carrier, a
+nd you'll pay for another express label for it to be shipped back to you.
+Mine arrived the day before travel.

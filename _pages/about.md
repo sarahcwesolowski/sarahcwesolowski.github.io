@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: data science manager ☀️ analytics and deliverables
+subtitle: data science manager ☀️ analytics leader
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  address: Located in York, UK
+  address: Located in York, UK<br>I am a US Citizen
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -16,14 +16,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I have recently relocated to the United Kingdom, where I will start a position in early 2024 at [Yorkshire Building Society](https://www.ybs.co.uk) as a Data Science Behavioural Analysis & Support
-Lead Manager. I was previously a healthcare data scientist at the University of Pennsylvania School of Medicine.
+I am a **data science manager** with a track record of leading high-impact analytics projects, delivering actionable insights, and developing technical teams. Currently, I lead a team of data scientists in balance sheet management at [Yorkshire Building Society](https://www.ybs.co.uk), focusing on mortgage pipeline and prepayment modeling to support pricing, hedging, and strategic planning.
 
-As a professional data scientist, I use full-stack
-techniques to extract and process complex data (SQL and Azure Databricks),
-create custom machine learning models (Python and R), put models into deployment
-on Azure or other custom cloud platforms, and create beautiful and informative visualisations (usually with maplotlib/plptly and dash).
-Everything is under version control in github or gitlab.
-I am a skilled scientific programmer who has worked in a variety of architectures,
-and I am happy to integrate into new development stacks or determine new ones
-depending on the business use-case. Last but not least, I am passionate about managing projects and getting things done. I have managed a variety of research and consultation projects in various fields.
+With 15+ years of experience, I specialize in:
+* Building and deploying machine learning models (Python, R, SQL, Azure)
+* Designing robust forecasting & behavioral analytics for financial and healthcare sectors
+* Managing and mentoring data science teams to drive efficiency and innovation
+* Communicating complex data insights to stakeholders across business functions
+
+Previously, I worked in healthcare analytics at the University of Pennsylvania and academic research in applied statistics and Bayesian modeling. I thrive at the intersection of data, strategy, and execution—turning complex datasets into business value while driving forward-thinking technical solutions.
