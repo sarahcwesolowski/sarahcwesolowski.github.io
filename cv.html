@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CV | Sarah Wesolowski</title>
+  <meta name="description" content="CV for Sarah Wesolowski, PhD - Senior data science specialist with expertise in machine learning, analytics, and team leadership.">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="assets/img/favicon.png">
+
+  <!-- Google Fonts: Space Grotesk (headings) + Inter (body) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+  <header>
+    <nav class="container">
+      <a href="index.html" class="site-title">Sarah Wesolowski</a>
+      <button class="nav-toggle" aria-label="Toggle navigation">
+        <i class="fas fa-bars"></i>
+      </button>
+      <ul class="nav-links">
+        <li><a href="index.html">About</a></li>
+        <li><a href="publications.html">Publications</a></li>
+        <li><a href="cv.html" class="active">CV</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <div class="container">
+      <div class="page-header">
+        <h1>Curriculum Vitae</h1>
+      </div>
+
+      <div class="cv-download">
+        <p>Download my full CV in PDF format:</p>
+        <a href="assets/pdf/Wesolowski_CV.pdf" class="btn" download>
+          <i class="fas fa-download"></i> Download CV (PDF)
+        </a>
+      </div>
+
+      <h2>Skills</h2>
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem;">
+        <div>
+          <h4>Business Skills</h4>
+          <ul>
+            <li>Machine learning and AI models</li>
+            <li>MLOps and productionisation</li>
+            <li>Model documentation</li>
+            <li>Mentoring team members</li>
+            <li>Project management and delivery</li>
+            <li>Data analytics and dashboarding</li>
+            <li>Stakeholder communication</li>
+          </ul>
+        </div>
+        <div>
+          <h4>Technical Skills</h4>
+          <ul>
+            <li>Python (pandas, sklearn, pyspark)</li>
+            <li>SQL</li>
+            <li>Microsoft Azure, Docker</li>
+            <li>Big data (Databricks, pyspark)</li>
+            <li>Tableau</li>
+            <li>Git</li>
+            <li>Jira</li>
+          </ul>
+        </div>
+      </div>
+
+      <h2>Experience</h2>
+
+      <h4>Lead Data Science Manager — Yorkshire Building Society</h4>
+      <p><em>Leeds, UK · January 2024 – Present</em></p>
+      <p>Line manager for a team of 4 data scientists analysing and predicting customer mortgage behaviour. Team products feed into mortgage pricing, financial planning, and hedging against economic shocks.</p>
+
+      <h4>Senior Data Scientist — University of Pennsylvania School of Medicine</h4>
+      <p><em>Philadelphia, USA · February 2022 – December 2023</em></p>
+      <p>Managed project portfolio and mentored junior colleagues, leading the lab's analytics transition into Azure Databricks. Developed statistical methods for clinical studies.</p>
+
+      <h4>Researcher and Lecturer — Salisbury University</h4>
+      <p><em>Maryland, USA · August 2017 – January 2022</em></p>
+      <p>Published 4 scientific articles in top physics journals. Coordinated team analytics projects with clients including the US Navy and NASA. Developed new data science programme curriculum.</p>
+
+      <h2>Education</h2>
+      <ul>
+        <li><strong>PhD in Physics</strong> — The Ohio State University<br><em>Thesis: "Bayesian Methods for Effective Field Theories"</em></li>
+        <li><strong>BSc in Physics</strong> — Saint Vincent College</li>
+      </ul>
+
+      <h2>Languages</h2>
+      <p>English (native), Japanese (N3)</p>
+
+      <p class="text-center mt-2">
+        <a href="assets/pdf/Wesolowski_CV.pdf" class="btn" download>
+          <i class="fas fa-download"></i> Download Full CV
+        </a>
+      </p>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <div class="social-links">
+        <a href="https://github.com/sarahcwesolowski" target="_blank" rel="noopener" title="GitHub">
+          <i class="fab fa-github"></i>
+        </a>
+        <a href="https://linkedin.com/in/sarahcwesolowski" target="_blank" rel="noopener" title="LinkedIn">
+          <i class="fab fa-linkedin"></i>
+        </a>
+      </div>
+      <p>&copy; 2024 Sarah Wesolowski. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script>
+    document.querySelector('.nav-toggle').addEventListener('click', function() {
+      document.querySelector('.nav-links').classList.toggle('active');
+    });
+  </script>
+</body>
+</html>
